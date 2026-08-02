@@ -4,8 +4,12 @@ Questo repository pubblico contiene esclusivamente gli installer e le note di ri
 
 ## Download
 
-- [Scarica l’ultima versione](https://github.com/Francosurf/elios-studio-releases/releases/latest)
-- [Elios Studio 4.0.0](https://github.com/Francosurf/elios-studio-releases/releases/tag/v4.0.0)
+- [Scarica l’ultima versione](https://github.com/Francosurf/CLG-Elios/releases/latest)
+- [Elios Studio 4.0.0](https://github.com/Francosurf/CLG-Elios/releases/tag/v4.0.0)
+
+## Compatibilità CLG Eureka 3.x
+
+Questo percorso pubblico mantiene il nome del repository incorporato nel vecchio updater. Le installazioni CLG Eureka 3.x con licenza ancora valida possono quindi rilevare e scaricare **Elios Studio 4.0.0** senza accedere al repository sorgente privato.
 
 ## Verifica dell’integrità
 
